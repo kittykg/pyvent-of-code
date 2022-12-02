@@ -7,7 +7,7 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 ## Status
 
-**2022**: 1 / 25
+**2022**: 2 / 25
 
-![2022](https://progress-bar.dev/4/)
+![2022](https://progress-bar.dev/8/)
 

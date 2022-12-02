@@ -1,7 +1,7 @@
-with open('input/day01', 'r') as f:
+with open("input/day01", "r") as f:
     s = f.read()
 
-groups = s.split('\n\n')
+groups = s.split("\n\n")
 e_sum = [sum([int(i) for i in e.split()]) for e in groups]
 
 # Task 1
