@@ -9,10 +9,15 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 **2022**: 
 
-Python: 6 / 25
+Python: 7 / 25
 
-![2022-python](https://progress-bar.dev/24/)
+![2022-python](https://progress-bar.dev/28/)
 
-Prolog: 6 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
+Prolog: 7 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
-![2022-prolog](https://progress-bar.dev/24/)
+![2022-prolog](https://progress-bar.dev/28/)
+
+
+## Python version requirement
+
+Python version 3.11+ for the nice `Self` in `typing` ;P
