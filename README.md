@@ -9,13 +9,13 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 **2022**: 
 
-Python: 7 / 25
+Python: 8 / 25
 
-![2022-python](https://progress-bar.dev/28/)
+![2022-python](https://progress-bar.dev/32/)
 
-Prolog: 7 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
+Prolog: 8 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
-![2022-prolog](https://progress-bar.dev/28/)
+![2022-prolog](https://progress-bar.dev/32/)
 
 
 ## Python version requirement
