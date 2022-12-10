@@ -9,7 +9,7 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 **2022**: 
 
-Python: 9 / 25
+Python: 10 / 25
 
 ![2022-python](https://progress-bar.dev/36/)
 
