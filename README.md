@@ -13,9 +13,11 @@ Python: 13 / 25
 
 ![2022-python](https://progress-bar.dev/52/)
 
-Prolog: 9 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
+Prolog: 10 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
-![2022-prolog](https://progress-bar.dev/36/)
+![2022-prolog](https://progress-bar.dev/40/)
+
+Currently missing Day 10, 11, 12
 
 
 ## Python version requirement
