@@ -9,9 +9,9 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 **2022**: 
 
-Python: 12 / 25
+Python: 13 / 25
 
-![2022-python](https://progress-bar.dev/48/)
+![2022-python](https://progress-bar.dev/52/)
 
 Prolog: 9 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
