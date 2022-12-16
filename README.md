@@ -9,17 +9,23 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 **2022**: 
 
-Python: 15 / 25
+Python: 16 / 25
 
-![2022-python](https://progress-bar.dev/56/)
+![2022-python](https://progress-bar.dev/60/)
 
 Prolog: 11 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
 ![2022-prolog](https://progress-bar.dev/44/)
 
-Currently missing Day 10, 11, 12, 14
+Currently missing Day 10, 11, 12, 14, 16
 
 
-## Python version requirement
+## Requirements
 
 Python version 3.11+ for the nice `Self` in `typing` ;P
+
+Other packages:
+
+- `numpy` (for some 2D array manipulation)
+
+- `networkx` (for some graph analysis)
