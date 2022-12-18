@@ -9,17 +9,17 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 **2022**: 
 
-Python: 17 / 25
+Python: 18 / 25
 
 ![2022-python](https://progress-bar.dev/68/)
 
-Prolog: 11 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
+Prolog: 12 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
-![2022-prolog](https://progress-bar.dev/44/)
+![2022-prolog](https://progress-bar.dev/48/)
 
-Currently missing Day 10, 11, 12, 14, 16, 17
+Currently missing Day 11, 12, 14, 16, 17, 18
 
-Definitely not doing day 17 (tetris) in Prolog 🤡
+Definitely not doing day 17 (tetris) and 18 (convolution) in Prolog 🤡
 
 
 ## Requirements
@@ -29,6 +29,8 @@ Python version 3.11+ for the nice `Self` in `typing` ;P
 Other packages:
 
 - `numpy` (for some 2D array manipulation)
+
+- `scip` (for convolution)
 
 - `networkx` (for some graph analysis)
 
