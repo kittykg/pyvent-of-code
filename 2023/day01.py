@@ -1,6 +1,3 @@
-import re
-import math
-
 with open("input/day01", "r") as f:
     lines = list(filter(lambda x: x != "", f.read().split("\n")))
 

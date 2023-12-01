@@ -1,11 +1,21 @@
 # Pyvent of Code
 
 Lazy ass me can't bother to write Prolog and actually want to finish advent of
-code for once.
+code for once (cri)
 
 Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
 ## Status
+
+**2023**
+
+Python: 1 / 25
+
+![2023-python](https://progress-bar.dev/4/)
+
+Prolog: 1 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
+
+![2023-prolog](https://progress-bar.dev/4/)
 
 **2022**: 
 
@@ -32,7 +42,7 @@ Other packages:
 
 - `numpy` (for some 2D array manipulation)
 
-- `scip` (for convolution)
+- `scipy` (for convolution)
 
 - `networkx` (for some graph analysis)
 
