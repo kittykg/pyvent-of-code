@@ -9,13 +9,13 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 **2023**
 
-Python: 3 / 25
+Python: 4 / 25
 
-![2023-python](https://progress-bar.dev/12/)
+![2023-python](https://progress-bar.dev/16/)
 
-Prolog: 2 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
+Prolog: 3 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
-![2023-prolog](https://progress-bar.dev/8/)
+![2023-prolog](https://progress-bar.dev/12/)
 
 Not doing day 3 in Prolog for sure 🙃
 
