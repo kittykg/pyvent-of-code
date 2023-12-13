@@ -9,15 +9,18 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 **2023**
 
-Python: 11 / 25
+Python: 12 / 25
 
-![2023-python](https://progress-bar.dev/44/)
+![2023-python](https://progress-bar.dev/48/)
+
+Missing Day 12
 
 Prolog: 9.5 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
 ![2023-prolog](https://progress-bar.dev/38/)
 
-Not doing day 3 in Prolog for sure 🙃, day 5 part 2 not working 🥲
+Not doing day 3 in Prolog for sure 🙃, day 5 part 2 not working 🥲 Missing day
+12, 13
 
 **2022**: 
 
