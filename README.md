@@ -9,9 +9,9 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 **2023**
 
-Python: 12 / 25
+Python: 13 / 25
 
-![2023-python](https://progress-bar.dev/48/)
+![2023-python](https://progress-bar.dev/52/)
 
 Missing Day 12
 
