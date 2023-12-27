@@ -9,17 +9,19 @@ Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCa
 
 **2023**
 
-Python: 21 / 25
+Python: 22.5 / 25
 
-![2023-python](https://progress-bar.dev/84/)
+![2023-python](https://progress-bar.dev/90/)
 
 Missing:
 
-- Day 12, 17
+- Day 12 Part 2
+
+- Day 17
 
 - Day 21 Part 2
 
-- Day 23 Part 2 still running...
+- Day 25 Part 2 (locked...)
 
 Prolog: 9.5 / 25 at [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
@@ -58,6 +60,8 @@ Other packages:
 - `networkx` (for some graph analysis)
 
 - `black` (for the STRICTEST FORMATTING)
+
+- `sympy` (for some equation solving)
 
 
 ## Honourable Mention: My Memes
