@@ -38,4 +38,11 @@ def task_1():
     return acc_sum
 
 
-print(task_1())
+# WIP: ?
+# print(task_1())
+
+# def parse_and_expand(l: str) -> tuple[str, list[int]]:
+#     pattern, group = l.split(" ")
+#     pattern = "?".join([pattern for _ in range(5)]) + "."  # add an extra dot
+#     group = list(map(int, group.split(","))) * 5
+#     return pattern, group
