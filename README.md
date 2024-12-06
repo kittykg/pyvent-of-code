@@ -8,10 +8,14 @@
 
 ### 2024 ⬅️
 
-Language                                                  | Progress | Bar
---------------------------------------------------------- | -------- | --------------------------------------------
-Python                                                    | 5 / 25   | ![2024-python](https://geps.dev/progress/20/)
-Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 5 / 25   | ![2024-prolog](https://geps.dev/progress/20/)
+Language                                                  | Progress  | Bar
+--------------------------------------------------------- | --------- | ---------------------------------------------
+Python                                                    | 6 / 25    | ![2024-python](https://geps.dev/progress/24/)
+Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 5.75 / 25 | ![2024-prolog](https://geps.dev/progress/23/)
+
+Prolog Notes:
+
+- Day 6 part 2 works on test but not terminating in 15min for real input 🤡
 
 ### 2023
 
