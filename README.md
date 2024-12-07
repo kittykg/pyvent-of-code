@@ -8,14 +8,17 @@
 
 ### 2024 ⬅️
 
-Language                                                  | Progress  | Bar
---------------------------------------------------------- | --------- | ---------------------------------------------
-Python                                                    | 6 / 25    | ![2024-python](https://geps.dev/progress/24/)
-Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 5.75 / 25 | ![2024-prolog](https://geps.dev/progress/23/)
+Language                                                  | Progress | Bar
+--------------------------------------------------------- | -------- | ---------------------------------------------
+Python                                                    | 7 / 25   | ![2024-python](https://geps.dev/progress/28/)
+Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 7 / 25   | ![2024-prolog](https://geps.dev/progress/28/)
 
 Prolog Notes:
 
-- Day 6 part 2 works on test but not terminating in 15min for real input 🤡
+- 2024 Day 6 part 2 takes 2.5 hrs to run lol
+
+- 2024 Day 7 takes in total 14.8 s to run (compared to combinatorial python's
+  19.1s POG)
 
 ### 2023
 
