@@ -10,10 +10,12 @@
 
 Language                                                  | Progress | Bar
 --------------------------------------------------------- | -------- | ---------------------------------------------
-Python                                                    | 7 / 25   | ![2024-python](https://geps.dev/progress/28/)
+Python                                                    | 8 / 25   | ![2024-python](https://geps.dev/progress/28/)
 Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 7 / 25   | ![2024-prolog](https://geps.dev/progress/28/)
 
 Prolog Notes:
+
+- 2024 Day 8 -- didn't have time for it yet
 
 - 2024 Day 6 part 2 takes 2.5 hrs to run lol
 
