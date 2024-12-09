@@ -10,17 +10,18 @@
 
 Language                                                  | Progress | Bar
 --------------------------------------------------------- | -------- | ---------------------------------------------
-Python                                                    | 8 / 25   | ![2024-python](https://geps.dev/progress/28/)
-Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 7 / 25   | ![2024-prolog](https://geps.dev/progress/28/)
+Python                                                    | 9 / 25   | ![2024-python](https://geps.dev/progress/36/)
+Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 8 / 25   | ![2024-prolog](https://geps.dev/progress/32/)
 
 Prolog Notes:
 
-- 2024 Day 8 -- didn't have time for it yet
+- Day 6 part 2 takes 2.5 hrs to run lol
 
-- 2024 Day 6 part 2 takes 2.5 hrs to run lol
+- Day 7 takes in total 14.8 s to run (compared to combinatorial python's 19.1s
+  POG)
 
-- 2024 Day 7 takes in total 14.8 s to run (compared to combinatorial python's
-  19.1s POG)
+- Day 9 not happening. I did too much mutation in python, don't think it will
+  translate well in Prolog 🥲
 
 ### 2023
 
