@@ -175,8 +175,13 @@ def task_2():
 
     start = datetime.now()
     count = 0
+
+    coverage_grid = travel_with_trace(char_grid)
+
     for i in range(max_row):
         for j in range(max_col):
+            if coverage_grid[i, j] == 0:
+                continue
             mod_grid = char_grid.copy()
             mod_grid[i, j] = "#"
             if travel_check_loop(mod_grid):
