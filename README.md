@@ -10,7 +10,7 @@
 
 Language                                                  | Progress | Bar
 --------------------------------------------------------- | -------- | ---------------------------------------------
-Python                                                    | 13 / 25  | ![2024-python](https://geps.dev/progress/52/)
+Python                                                    | 14 / 25  | ![2024-python](https://geps.dev/progress/56/)
 Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 12 / 25  | ![2024-prolog](https://geps.dev/progress/48/)
 
 Prolog Notes:
@@ -22,6 +22,8 @@ Prolog Notes:
 
 - Day 9 not happening. I did too much mutation in python, don't think it will
   translate well in Prolog 🥲
+
+- Day 14 maybe happening?
 
 ### 2023
 
