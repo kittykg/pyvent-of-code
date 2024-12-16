@@ -8,24 +8,26 @@
 
 ### 2024 ⬅️
 
-Language                                                  | Progress | Bar
---------------------------------------------------------- | -------- | ---------------------------------------------
-Python                                                    | 15 / 25  | ![2024-python](https://geps.dev/progress/60/)
-Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 12 / 25  | ![2024-prolog](https://geps.dev/progress/48/)
+Language                                                  | Progress  | Bar
+--------------------------------------------------------- | --------- | ---------------------------------------------
+Python                                                    | 16 / 25   | ![2024-python](https://geps.dev/progress/64/)
+Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 12.5 / 25 | ![2024-prolog](https://geps.dev/progress/48/)
 
 Prolog Notes:
 
 - Day 6 part 2 takes 2.5 hrs to run lol
 
-- Day 7 takes in total 14.8 s to run (compared to combinatorial python's 19.1s
-  POG)
+- Day 7 takes in total 14.8 s to run (compared to combinatorial python's 19.1s POG)
 
-- Day 9 not happening. I did too much mutation in python, don't think it will
-  translate well in Prolog 🥲
+- Day 14 part 2 -- checking 🎄, not sure I want to do it lol
 
-- Day 14 maybe happening?
+- Not happening
 
-- Day 15 def not happening 🙃
+  - Day 9 -- Don't think it will translate well in Prolog 🥲
+
+  - Day 15 -- 2D array moving boxes? NOPE 🙃
+
+  - Day 16 -- Dijkstra? I don't want to 🙃
 
 ### 2023
 
