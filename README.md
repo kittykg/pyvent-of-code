@@ -10,7 +10,7 @@
 
 Language                                                  | Progress  | Bar
 --------------------------------------------------------- | --------- | ---------------------------------------------
-Python                                                    | 16 / 25   | ![2024-python](https://geps.dev/progress/64/)
+Python                                                    | 17 / 25   | ![2024-python](https://geps.dev/progress/68/)
 Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 12.5 / 25 | ![2024-prolog](https://geps.dev/progress/48/)
 
 Prolog Notes:
@@ -28,6 +28,10 @@ Prolog Notes:
   - Day 15 -- 2D array moving boxes? NOPE 🙃
 
   - Day 16 -- Dijkstra? I don't want to 🙃
+
+- Maybe??? If I have time
+
+  - Day 17 -- might be doable
 
 ### 2023
 
