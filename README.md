@@ -10,7 +10,7 @@
 
 Language                                                  | Progress  | Bar
 --------------------------------------------------------- | --------- | ---------------------------------------------
-Python                                                    | 17 / 25   | ![2024-python](https://geps.dev/progress/68/)
+Python                                                    | 18 / 25   | ![2024-python](https://geps.dev/progress/72/)
 Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 12.5 / 25 | ![2024-prolog](https://geps.dev/progress/48/)
 
 Prolog Notes:
@@ -31,7 +31,7 @@ Prolog Notes:
 
 - Maybe??? If I have time
 
-  - Day 17 -- might be doable
+  - Day 17, 18 -- might be doable
 
 ### 2023
 
