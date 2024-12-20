@@ -11,29 +11,31 @@
 Language                                                  | Progress  | Bar
 --------------------------------------------------------- | --------- | ---------------------------------------------
 Python                                                    | 20 / 25   | ![2024-python](https://geps.dev/progress/80/)
-Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 12.5 / 25 | ![2024-prolog](https://geps.dev/progress/50/)
+Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 13.5 / 25 | ![2024-prolog](https://geps.dev/progress/54/)
 
 Prolog Notes:
+
+- Finally committed and learned DCG (POG)
 
 - Day 6 part 2 takes 2.5 hrs to run lol
 
 - Day 7 takes in total 14.8 s to run (compared to combinatorial python's 19.1s POG)
 
-- Day 14 part 2 -- checking 🎄, not sure I want to do it lol
-
-- Day 19 waiting for part 1 to even finish lmao
-
 - Not happening
 
-  - Day 9 -- Don't think it will translate well in Prolog 🥲
+  - Day 9 -- I did too much mutation in python, don't think it will translate well in Prolog 🥲
 
   - Day 15 -- 2D array moving boxes? NOPE 🙃
 
-  - Day 16 -- Dijkstra? I don't want to 🙃
+  - Day 16, 18 -- Dijkstra? I don't want to 🙃
+
+  - Day 20 -- I don't want to 🙃
 
 - Maybe??? If I have time
 
-  - Day 17, 18 -- might be doable
+  - Day 14 part 2 -- checking 🎄, not sure I want to do it lol
+
+  - Day 17 -- might be doable
 
 ### 2023
 
