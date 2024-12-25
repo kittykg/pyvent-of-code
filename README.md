@@ -6,16 +6,12 @@
 
 ## Status
 
-### 2024 ⬅️
+### 2024 ⬅️ FOR THE FIRST TIME I'VE DONE IT
 
 Language                                                  | Progress  | Bar
 --------------------------------------------------------- | --------- | ---------------------------------------------
-Python                                                    | 24 / 25   | ![2024-python](https://geps.dev/progress/96/)
+Python                                                    | 25 / 25   | ![2024-python](https://geps.dev/progress/100/)
 Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 13.5 / 25 | ![2024-prolog](https://geps.dev/progress/54/)
-
-Python Notes:
-
-- Day 21 -- figure out the nested loops lmao
 
 Prolog Notes:
 
@@ -40,6 +36,8 @@ Prolog Notes:
   - Day 14 part 2 -- checking 🎄, not sure I want to do it lol
 
   - Day 17 -- might be doable
+
+  - Day 25 -- def doable for the logic bit, not sure about the parsing lol
 
 ### 2023
 
