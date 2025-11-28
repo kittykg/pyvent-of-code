@@ -1,15 +1,26 @@
 # Pyvent of Code
 
+**2025**: PhD thesis season (ddl on Jan 6th 🙃) so Python only to start with...
+
 **2024**: Trying to get solution fast so I beat my friends in our private leader board. Also realised using python to check for correct answer and actually parse input for Prolog works pretty well lol.
 
 **2022 & 2023**: Lazy ass me can't bother to write Prolog and actually want to finish advent of code for once (cri). Maybe will do more Prolog, check my [ADVOCad0](https://github.com/kittykg/ADVOCadO).
 
 ## Status
 
-### 2024 ⬅️ FOR THE FIRST TIME I'VE DONE IT
+### 2025 ⬅️
+
+Language                                                  | Progress | Bar
+--------------------------------------------------------- | -------- | --------------------------------------------
+Python                                                    | 0 / 12   | ![2025-python](https://geps.dev/progress/0/)
+Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 0 / 12   | ![2025-prolog](https://geps.dev/progress/0/)
+
+### 2024
+
+FOR THE FIRST TIME I'VE DONE IT
 
 Language                                                  | Progress  | Bar
---------------------------------------------------------- | --------- | ---------------------------------------------
+--------------------------------------------------------- | --------- | ----------------------------------------------
 Python                                                    | 25 / 25   | ![2024-python](https://geps.dev/progress/100/)
 Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 13.5 / 25 | ![2024-prolog](https://geps.dev/progress/54/)
 

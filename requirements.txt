@@ -1,0 +1,5 @@
+black
+networkx
+numpy
+scipy
+sympy

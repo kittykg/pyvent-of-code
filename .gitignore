@@ -1,6 +1,6 @@
 */input/
+.cursor/
 .vscode/
 
-# Personal scripts
-# wrap_up.py -- git commit + create new file for next day
-wrap_up.py
+# Environment variables
+.envrc
