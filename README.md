@@ -12,7 +12,7 @@
 
 Language                                                  | Progress | Bar
 --------------------------------------------------------- | -------- | --------------------------------------------
-Python                                                    | 2 / 12   | ![2025-python](https://geps.dev/progress/17/)
+Python                                                    | 3 / 12   | ![2025-python](https://geps.dev/progress/25/)
 Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 0 / 12   | ![2025-prolog](https://geps.dev/progress/0/)
 
 ### 2024
