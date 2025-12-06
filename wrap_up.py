@@ -32,8 +32,11 @@ def _create_new_files(day: int):
     new_python_file = Path(f"./{curr_year}/day{day:02}.py")
     with open(new_python_file, "w") as f:
         f.write(
-            f"""with open("input/day{day:02}", "r") as f:
+            f"""# %%
+with open("input/day{day:02}", "r") as f:
     lines = list(filter(lambda x: x != "", f.read().split("\\n")))
+   
+# %%
     """
         )
 
