@@ -2,4 +2,5 @@ black
 networkx
 numpy
 scipy
+shapely
 sympy

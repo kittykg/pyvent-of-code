@@ -12,7 +12,7 @@
 
 Language                                                  | Progress | Bar
 --------------------------------------------------------- | -------- | --------------------------------------------
-Python                                                    | 8 / 12   | ![2025-python](https://geps.dev/progress/67/)
+Python                                                    | 9 / 12   | ![2025-python](https://geps.dev/progress/75/)
 Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 0 / 12   | ![2025-prolog](https://geps.dev/progress/0/)
 
 ### 2024
@@ -92,13 +92,15 @@ Python version 3.11+ for the nice `Self` in `typing` ; P
 
 Other packages:
 
+- `black` (for the STRICTEST FORMATTING)
+
+- `networkx` (for some graph analysis)
+
 - `numpy` (for some 2D array manipulation)
 
 - `scipy` (for convolution)
 
-- `networkx` (for some graph analysis)
-
-- `black` (for the STRICTEST FORMATTING)
+- `shapely` (for polygon analysis)
 
 - `sympy` (for some equation solving)
 
