@@ -8,11 +8,13 @@
 
 ## Status
 
-### 2025 ⬅️
+### 2025
+
+IT'S DONE BUT ALSO NOT DONE BC I DIDN'T USE PROLOG THIS YEAR AT ALL 🥲
 
 Language                                                  | Progress | Bar
 --------------------------------------------------------- | -------- | --------------------------------------------
-Python                                                    | 11 / 12   | ![2025-python](https://geps.dev/progress/92/)
+Python                                                    | 12 / 12  | ![2025-python](https://geps.dev/progress/100/)
 Prolog at [ADVOCad0](https://github.com/kittykg/ADVOCadO) | 0 / 12   | ![2025-prolog](https://geps.dev/progress/0/)
 
 ### 2024
